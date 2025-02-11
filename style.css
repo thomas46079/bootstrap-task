@@ -1,0 +1,12 @@
+li{
+   list-style: none;
+}
+a{
+text-decoration: none;
+}
+.price{
+    color: red;
+}
+.card :hover{
+   background-color: rgb(210, 229, 222);
+}
